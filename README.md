@@ -46,10 +46,12 @@ There were over 5000 missing values in the directed column. We were able to addr
 
 This pie chart shows the distribution of the sentiment of the tweets.
 
+<p align="center">Sentiment % of Tweets</p>
 <p align="center"><img src="images/Pie-chart.png" alt="sentiment pie chart"></p>
 
 To further analyze, this is the distributuion per product or the brand. The Apple held an iPad launch at SXSW, so this chart appears accurate based on that information.
 
+<p align="center">Sentiment % per product</p>
 <p align="center"><img src="images/Product-graph.png" width=60% height=60% alt="bar graph of product"></p>
 
 ## Preprocessing
