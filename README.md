@@ -1,7 +1,7 @@
 # Phase4NLP
 Phase 4 Project
 
-Authors: Leo Shell Villanueva, Rachael McCue, Gliglor Visalev, Russel Blanchard
+Authors: Leo Shell Villanueva, Rachael McCue, Gliglor Vasilev, Russell Blanchard
 
 This project is an academic exercise for Flatiron School's Data Science Phase 4 group project. From this point forward, we will treat this notebook as Data Scientists presenting to Apple Marketing Executives.
 
